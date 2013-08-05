@@ -2,10 +2,8 @@ Hallo
 Das ist nur ein kleiner Test
 
 blubb blubb
-<<<<<<< HEAD
 
 tadam tadam
 
-=======
 blubberdieblubb
->>>>>>> 3f2a00edb1945eba7fd1f5a63465ebcb08e077a5
+
